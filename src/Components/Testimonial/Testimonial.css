@@ -1,0 +1,21 @@
+.card-container{
+    display: flex;
+}
+.card{
+    margin: 5px;
+}
+.profile-img{
+    padding: 30px;            
+}
+.section-title{    
+   
+   font-weight: 900;
+}
+.testimonial-container{
+    background-color: #d3d3d336;
+    padding: 20px; 
+}
+.feedback p{
+    color: rgb(32, 39, 46);    
+    font-weight: 500;
+}

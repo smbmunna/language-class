@@ -1,0 +1,13 @@
+h1, .city{
+    text-align: center;
+}
+
+.card-container{
+    margin: 50px 30px 70px 30px ;
+}
+
+
+.address-icon.col{
+    max-width: 5px;
+}
+
