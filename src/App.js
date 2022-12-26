@@ -7,7 +7,7 @@ import NotFound from './Components/NotFound/NotFound';
 import Contact from './Components/Contact/Contact';
 import About from './Components/About/About';
 function App() {
-  return (
+  return (    
     <Router>
       <Routes>
         <Route path='/home' element={<Home/>}/>

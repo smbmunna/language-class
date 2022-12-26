@@ -10,7 +10,7 @@ function ColorSchemesExample() {
     <div className='header-container'>
       <Navbar className='nav-bar-container fixed-top'>
         <Container>
-          <Navbar.Brand  href="/home"><img className='site-logo' src={logo}/></Navbar.Brand>
+          <Navbar.Brand  href="#"><img className='site-logo' src={logo}/></Navbar.Brand>
           <Nav className="me-auto">
             <Link className="navigation-items" to='/home'>Home</Link>
             <Link className="navigation-items" to='/course'>Courses</Link>
