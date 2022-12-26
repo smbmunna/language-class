@@ -1,6 +1,6 @@
 ## Language Class
 
-[Live Link](https://magenta-lollipop-3e6d9d.netlify.app/)
+[Live Link](https://ephemeral-pastelito-58955e.netlify.app/)
 
 #### Site Features: 
 - CSS Framework used: REACT Bootstrap
