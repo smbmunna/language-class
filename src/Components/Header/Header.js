@@ -7,8 +7,8 @@ import './Header.css';
 
 function ColorSchemesExample() {
   return (
-    <>
-      <Navbar className='nav-bar-container'>
+    <div className='header-container'>
+      <Navbar className='nav-bar-container fixed-top'>
         <Container>
           <Navbar.Brand  href="/home"><img className='site-logo' src={logo}/></Navbar.Brand>
           <Nav className="me-auto">
@@ -20,11 +20,7 @@ function ColorSchemesExample() {
           </Nav>
         </Container>
       </Navbar>
-
-      
-      
-      
-    </>
+    </div>
   );
 }
 

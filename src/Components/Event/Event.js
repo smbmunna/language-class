@@ -14,7 +14,7 @@ const Event = () => {
             <Header></Header>
             
             <h1 className='section-title'>Our Nearby Events</h1>
-            <p className='subtitle'>Our upcoming events migth interest you.</p>
+            <p className='event-subtitle'>Our upcoming events migth interest you.</p>
                 <Container>
                 <Row>
                     

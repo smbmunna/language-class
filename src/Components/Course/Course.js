@@ -13,8 +13,7 @@ const Course = () => {
         <div className='course-container'>
             <Header></Header>
             <Container>
-                <div className='course-title'><h1>Available Courses</h1></div>                
-                <p className='subtitle'>Our language courses. Contact us for booking. </p>
+                <div className='course-title'><h1>Available Courses</h1></div>                                
                 <Row>
                     {
                        courses.map(course => <CoruseInfo course={course}></CoruseInfo>)

@@ -1,7 +1,7 @@
 .course-title h1{
-    margin-top: 40px;
+    padding-top: 80px;
     font-weight: 900;
 }
-.course-container{
+.course-container{    
     background-color: #d3d3d336;
 }
